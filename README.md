@@ -7,6 +7,7 @@ You can quickly and easily create a README file by using a command-line applicat
 The application will be invoked by using the following command:
 
 ```bash
+npm install
 node index.js
 ```
 
