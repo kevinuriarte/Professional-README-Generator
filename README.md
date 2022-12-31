@@ -11,7 +11,7 @@ npm install
 node index.js
 ```
 
-The following video shows the application's functionality, you can alson visit https://drive.google.com/file/d/1r0qFzh8nvHCeKBMHufDXjy6jnccsEbUd/view to watch this video in full screen:
+The following video shows the application's functionality, you can visit https://drive.google.com/file/d/1r0qFzh8nvHCeKBMHufDXjy6jnccsEbUd/view to watch this video in full screen:
 
 ![This video shows the functionality of the app through the terminal.](./Module9.gif)
 
